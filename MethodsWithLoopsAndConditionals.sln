@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithLoopsAndConditionals", "MethodsWithLoopsAndConditionals\MethodsWithLoopsAndConditionals.csproj", "{BC571E9F-3354-4A9D-B7BE-E449E3373EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC571E9F-3354-4A9D-B7BE-E449E3373EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC571E9F-3354-4A9D-B7BE-E449E3373EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC571E9F-3354-4A9D-B7BE-E449E3373EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC571E9F-3354-4A9D-B7BE-E449E3373EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {496B576D-6105-4B3E-B2C4-0E7D0733F5D5}
+	EndGlobalSection
+EndGlobal
